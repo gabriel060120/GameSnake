@@ -42,6 +42,7 @@ void draw(){
                 //aumento da cobra
                 if(x==pointX && y==pointY)
                 {
+                    Beep(600,250);
                     tamanho++;
                     label3:
                     pointX = rand() % 18;
