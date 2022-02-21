@@ -1,2 +1,2 @@
 # GameSnake
-Game Snake using C Language, o jogo possui um nível e a cobra cresce ao comer uma fruta representada por "0".
+Game Snake using C Language, the game has one level and the snake grows by eating a fruit represented by "0".
